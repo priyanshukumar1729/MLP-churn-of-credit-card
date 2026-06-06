@@ -1,3 +1,2 @@
-# DEMO
-this is my first repository
-okayy we got it 
+This is uploaded directly through google colab 
+It is related to MLP using keras
